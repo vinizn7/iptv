@@ -334,6 +334,8 @@ http://m3u.me/br/AUDwc
 
 Filmes
 
+#EXTINF:-1 tvg-logo="https://goo.gl/8WNLKm" group-title="Filmes",Mulan 2: A Lenda Continua
+http://bit.do/dVDio
 #EXTINF:-1 tvg-logo="https://goo.gl/veBF1L" group-title="Filmes",O Início do Fim 
 https://goo.gl/pRzUeX
 #EXTINF:-1 tvg-logo="https://goo.gl/5wciEj" group-title="Filmes",Sob Pressão
